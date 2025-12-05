@@ -75,7 +75,7 @@ long long solve1(std::vector<Range> ranges, const std::vector<long long>& number
   return count;
 }
 
-long long solve2(std::vector<Range> ranges, const std::vector<long long>& numbers) {
+long long solve2(std::vector<Range> ranges) {
     long long total_ids = 0;
 
     for (const auto& r : ranges) {
@@ -94,7 +94,7 @@ int main() {
   cout << solve1(merged_ranges, numbers) << endl; 
 
   cout << "Part 2: " << endl;
-  cout << solve2(merged_ranges, numbers) << endl;
+  cout << solve2(merged_ranges) << endl;
 
   return 0;
 }
