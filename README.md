@@ -25,7 +25,7 @@ Inside each folder, you'll typically find:
 | [Day 9](day9/) | ⭐ | ⭐ |
 | [Day 10](day10/) | ⭐ | ⭐ |
 | [Day 11](day11/) | ⭐ | ⭐ |
-| [Day 12](day12/) | | |
+| [Day 12](day12/) | ⭐ | ⭐ |
 
 ## How to Run
 
